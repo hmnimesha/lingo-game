@@ -1,0 +1,35 @@
+
+export const WORDS: string[] = [
+  "APPLE",
+  "BRAIN",
+  "CHAIR",
+  "DREAM",
+  "EARTH",
+  "FLAME",
+  "GRAPE",
+  "HEART",
+  "JUICE",
+  "LEMON",
+  "MUSIC",
+  "NIGHT",
+  "OCEAN",
+  "PLANT",
+  "QUEEN",
+  "ROBOT",
+  "SMILE",
+  "TRAIN",
+  "WATER",
+  "CLOUD",
+  "LIGHT",
+  "HOUSE",
+  "TIGER",
+  "BEACH",
+  "BREAD",
+  "DANCE",
+  "FRUIT",
+  "GREEN",
+  "HAPPY",
+];
+
+export const WORD_LENGTH = 5;
+export const MAX_TRIES = 6;
